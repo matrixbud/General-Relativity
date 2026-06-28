@@ -1,4 +1,3 @@
-General-Relativity (GR) 
 This began as my extensively annotated notes on Foster & Nightengale's text "A Short Course in General Relativity" as well as my own 
 development of many topics in Newtonian physics and linear mathematics that are prerequisites for GR. Lately it has grown to include some 
 modern concepts that have been adopted in GR after publication of this book. This includes differential forms, including my tutorial to 
